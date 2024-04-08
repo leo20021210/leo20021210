@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @leo20021210
-- 👀 I’m interested in software development and Machine Learning
-- 🌱 I’m currently learning Spring framework and Machine Learning technique
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Peiqi Liu
+- 👀 I’m interested in Robotics and Machine Learning
+- 🌱 I’m currently working in Prof. Lerrel Pinto's lab @ NYU
 - 📫 How to reach me pl2285@nyu.edu
 
 <!---
